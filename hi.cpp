@@ -1,4 +1,12 @@
 #include <iostream>
+
+class Employee{
+public:
+  string name;
+  string company;
+  int age;
+};
+
 int square(int a){
   return a*a;
 }
