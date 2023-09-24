@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 class Employee{
 public:
   string name;
@@ -15,5 +15,6 @@ int main(){
   cout<<"hello world";
   int b = 112;
   square(b);
+  cout<<"helloworld";
   return 0;
 }
