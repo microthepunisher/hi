@@ -1,20 +1,6 @@
 #include <iostream>
-using namespace std;
-class Employee{
-public:
-  string name;
-  string company;
-  int age;
-};
-
-int square(int a){
-  return a*a;
-}
-
+using namespace std; 
 int main(){
-  cout<<"hello world";
-  int b = 112;
-  square(b);
-  cout<<"helloworld";
+  cout<<"Happy Birthday!";
   return 0;
 }
